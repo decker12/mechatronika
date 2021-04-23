@@ -42,5 +42,5 @@ void loop() {
 	Serial.print("Pot Value (new): ");
 	Serial.println(mappedPotValue);
   
-  delay(500);
+  delay(700);
 }
